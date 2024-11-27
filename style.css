@@ -35,6 +35,8 @@ h1 {
     padding: 2%;
     padding-left: 15%;
     padding-right: 0%;
+    text-decoration: #05223bad underline;
+    text-decoration-thickness: 9%;
 }
 
 #box{
@@ -56,6 +58,8 @@ article {
     color: #92a9b1;
     z-index: 5;
     font-family: "Quintessential";
+    text-decoration: #01182c underline;
+    text-decoration-thickness: 15%;
 }
 
 h2{
