@@ -42,10 +42,11 @@ h1 {
 #box{
     background-color: #05223b76;
     border-style: dotted;
-    border-width: 7px;
+    border-width: 9px;
     width: 100%;
 
 }
+
 
 article {
     background: #05223b;
@@ -67,6 +68,14 @@ h2{
     font-size: 30px;
 }
 
+h3{
+    position:absolute;
+    font-size: 200%;
+    top: 18%;
+    right: 20%;
+    font-family: "Quintessential";
+}
+
 #wrapper {
     display: grid;
     flex-wrap: wrap;
@@ -84,4 +93,28 @@ footer{
     margin-top: 5%;
     align-self: flex-end;
     color: #94be64;
+}
+
+a:link {
+    color: #ba7929;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: #ba7929;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: #d2b66f;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 }
