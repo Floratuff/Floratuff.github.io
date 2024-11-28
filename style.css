@@ -72,10 +72,11 @@ h2{
 }
 
 h3{
-    position:absolute;
+    position: absolute;
     font-size: 200%;
-    top: 18%;
-    right: 20%;
+    margin: 0%;
+    top: 2%;
+    right: 2%;
     font-family: "Quintessential";
 }
 
